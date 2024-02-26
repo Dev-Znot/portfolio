@@ -2,8 +2,7 @@
 
 ---
 
-![Badge1](http://img.shields.io/static/v1?label=liguagem&message=python&color=blue&style=for-the-badge)
-![Badge2](http://img.shields.io/static/v1?label=STATUS&message=finalizado&color=purple&style=for-the-badge)
+![Badge1](http://img.shields.io/static/v1?label=STATUS&message=finalizado&color=purple&style=for-the-badge)
 ## Sobre
 Um projeto de lógica básica, porém que agrega grande valor ao desenvolvimento através do *framework Django*. A funcionalidade do "to do list" como o próprio nome sugere, se trata de site
 de listagem de tarefas com as respectivas funções de um (CRUD), ou seja, permite a leitura de tarefas, a criação da mesma permite também a editação de uma tarefa criada e, por último
