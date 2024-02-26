@@ -10,7 +10,7 @@
     <img loading="lazy" src="http://img.shields.io/static/v1?label=framework&message=django&color=green&style=for-the-badge"/>
   </div>
   <div>
-    <h2> Descrição de portfolio </h2>
+    <h2> Descrição </h2>
     <p>Ter uma área onde posso dispor de meus projetos e atividades é formidável. A intenção principal aqui é apresentar de forma estruturada, organizada e de fácil navegação meus principais projetos. Espero que agrade aqueles que o visitem. </p>
   </div>
 </main>
